@@ -1,0 +1,16 @@
+body  {
+  background-color:white;
+  text-align: center;
+}
+#custom-btn {
+    background-color: blue;
+    padding: 10px 20px;
+    cursor: pointer;
+    text-decoration: none;
+    
+    
+}
+#custom-btn:hover {
+  background-color: #ffffff;
+  transition: 0.3s;
+}
